@@ -6,7 +6,7 @@
 ![Release](https://img.shields.io/github/v/release/ccarlospm1/legion-del-mal-chiste)
 ![Issues](https://img.shields.io/github/issues/ccarlospm1/legion-del-mal-chiste)
 ![Último commit](https://img.shields.io/github/last-commit/ccarlospm1/legion-del-mal-chiste)
-![Licencia](https://img.shields.io/github/license/ccarlospm1/legion-del-mal-chiste)
+![Licencia](https://img.shields.io/github/license/ccarlospm1/legion-del-mal-chiste?&cacheSeconds=60)
 
 
 
