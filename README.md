@@ -21,7 +21,6 @@ Somos la alianza definitiva de supervillanos. Mientras los héroes se dividen en
 
 ## Estructura de la organización!! Total Burocrata por el Guason!
 
-```
 📁 planes/          → Operaciones aprobadas por el Consejo
 📁 miembros/        → Fichas de cada miembro activo
 📁 guaridas/        → Ubicaciones y estado de nuestras bases
