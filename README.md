@@ -1,3 +1,15 @@
+![Estático](https://img.shields.io/badge/Legion--del--mal--chiste-Activa-red)
+
+![Con logo](https://img.shields.io/badge/Git-2.45-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+![Workflow](https://img.shields.io/github/actions/workflow/status/ccarlospm1/legion-del-mal-chiste/ci.yml)
+![Release](https://img.shields.io/github/v/release/ccarlospm1/legion-del-mal-chiste)
+![Issues](https://img.shields.io/github/issues/ccarlospm1/legion-del-mal-chiste)
+![Último commit](https://img.shields.io/github/last-commit/ccarlospm1/legion-del-mal-chiste)
+![Licencia](https://img.shields.io/github/license/ccarlospm1/legion-del-mal-chiste)
+
+
+
 # 🦹‍♂️ La Legión del Mal
 
 > _"El mundo no se conquista con fuerza bruta, se conquista con un buen plan y control de versiones."_
