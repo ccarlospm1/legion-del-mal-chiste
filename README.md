@@ -47,7 +47,9 @@ Somos la alianza definitiva de supervillanos. Mientras los héroes se dividen en
 - **Catwoman** — Robos de alta precisión
 - **Venom** — Fuerza bruta y operaciones de intimidación
 - **Green Goblin** — Tecnología avanzada y tácticas de terror
+<<<<<<< HEAD
 - **LexLuthor inc**
+
 
 ## Reglas de la Legión
 
@@ -57,9 +59,9 @@ Somos la alianza definitiva de supervillanos. Mientras los héroes se dividen en
 4. **Los fracasos se documentan.** Aprendemos de ellos para la próxima vez.
 5. **Nada de monólogos explicando el plan al héroe.** Joker, esto va especialmente por ti.
 
-## Estado actual
+## Estado actual 
 
-📡 **Misión activa:** Operación Banco Mundial
+📡 **Misión activa:** Operación Banco Mundial y FMI
 🔬 **En desarrollo:** Satélite Congelador
 📋 **En planificación:** Proyecto Krypton (clonar a Superman)
 
